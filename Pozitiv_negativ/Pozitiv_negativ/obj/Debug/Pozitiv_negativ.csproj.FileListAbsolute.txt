@@ -1,0 +1,6 @@
+F:\Suli\Pozitiv_negativ\Pozitiv_negativ\bin\Debug\Pozitiv_negativ.exe.config
+F:\Suli\Pozitiv_negativ\Pozitiv_negativ\bin\Debug\Pozitiv_negativ.exe
+F:\Suli\Pozitiv_negativ\Pozitiv_negativ\bin\Debug\Pozitiv_negativ.pdb
+F:\Suli\Pozitiv_negativ\Pozitiv_negativ\obj\Debug\Pozitiv_negativ.exe
+F:\Suli\Pozitiv_negativ\Pozitiv_negativ\obj\Debug\Pozitiv_negativ.pdb
+F:\Suli\Pozitiv_negativ\Pozitiv_negativ\obj\Debug\Pozitiv_negativ.csprojAssemblyReference.cache
